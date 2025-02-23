@@ -1,4 +1,8 @@
 {
+  "name": "@horebz/is-one-thousand-nine-hundred-and-ninety-nine",
+  "version": "0.1.1",
+  "license": "MIT",
+  "exports": "./src/is-one-thousand-nine-hundred-and-ninety-nine.ts",
   "tasks": {
     "dev": "deno run --watch main.ts"
   },
