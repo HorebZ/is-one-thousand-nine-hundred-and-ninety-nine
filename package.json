@@ -1,0 +1,32 @@
+{
+  "name": "is-one-thousand-nine-hundred-and-ninety-nine",
+  "version": "0.1.1",
+  "description": "Check if a number is equal to one thousand nine hundred and ninety-nine",
+  "main": "./src/is-one-thousand-nine-hundred-and-ninety-nine.js",
+  "types": "./lib/is-one-thousand-nine-hundred-and-ninety-nine.ts",
+  "scripts": {
+    "test": "deno test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine.git"
+  },
+  "keywords": [
+    "check",
+    "is",
+    "one",
+    "thousand",
+    "nine",
+    "hundred",
+    "ninety",
+    "nine",
+    "1999",
+    "number"
+  ],
+  "author": "HorebZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine/issues"
+  },
+  "homepage": "https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine#readme"
+}
