@@ -1,7 +1,8 @@
 # is-one-thousand-nine-hundred-and-ninety-nine
 
 [![npm version](https://img.shields.io/npm/v/is-one-thousand-nine-hundred-and-ninety-nine.svg)](https://www.npmjs.com/package/is-one-thousand-nine-hundred-and-ninety-nine)
-[![jsr.io](https://img.shields.io/badge/jsr.io-is--one--thousand--nine--hundred--and--ninety--nine-blue)](https://jsr.io/packages/is-one-thousand-nine-hundred-and-ninety-nine)
+[![jsr.io](https://img.shields.io/badge/jsr.io-is--one--thousand--nine--hundred--and--ninety--nine-blue)](https://jsr.io/@horebz/is-one-thousand-nine-hundred-and-ninety-nine)
+
 
 ## Description
 
